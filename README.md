@@ -1,4 +1,4 @@
-## TicTaCool -
+## Tic Tac Toe - Have Fun Now!
 
 A fun and engaging Tic Tac Toe web application to enjoy with your friends, built using Next.js and other modern technologies for a seamless and interactive experience.
 
